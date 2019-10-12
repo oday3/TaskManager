@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">مدير المهام</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="tab_text_1">الرئيسية</string>
+    <string name="tab_text_2">المهام</string>
+    <string name="action_settings">الاعدادات</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titleOfAddActivity">اضافة مهمة جديدة</string>
+    <string name="titleOfTaskHint">عنوان المهمة</string>
+    <string name="summaryOfTaskHint">الملخص</string>
+    <string name="detailsOfTaskHint">التفاصيل</string>
+    <string name="imageOfTaskHint">الصورة</string>
+    <string name="titleOfDeleteAction">Delete</string>
+    <string name="titleOfSearchIcon">search</string>
+    <string name="addTaskButtonText">اضافة مهمة</string>
+    <string name="numOfTaaskText">رقم المهمة</string>
+    <string name="idOfTask">#رقم</string>
+    <string name="titleOfTaskInListItem">عنوان المهمة</string>
+    <string name="summaryOfTaskInList">ملخص المهمة</string>
+    <string name="idOfTaskInDetail">#رقم</string>
+    <string name="numOfTaskInDetail">رقم المهمة</string>
+    <string name="titleOfTaskInDetail">عنوان المهمة</string>
+    <string name="summaryOfTaskInDetail">ملخص المهمة</string>
+    <string name="dateTextInDetail">date</string>
+    <string name="timeTextInDetail">time</string>
+    <string name="descriptionOfTaskInDetail">وصف المهمة</string>
+</resources>
